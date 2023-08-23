@@ -1,0 +1,21 @@
+body {
+  margin: auto;
+  text-decoration: none;
+  background: #2308ec;
+  font-family: "roboto", sans-serif;
+}
+
+h2 {
+  color: red;
+  font-size: 30px;
+}
+
+.button {
+  background: red;
+  color: white;
+  font-size: 15px;
+  margin: 2px;
+  border-radius: 20%;
+  font-weight: 600;
+  width: 60px;
+}
